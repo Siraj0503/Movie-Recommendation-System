@@ -6,7 +6,7 @@ It suggests movies similar to the one you select and shows their posters and bas
 
 
 🚀 Live Demo
-[](https://mrsbysiraj0503.streamlit.app/)
+https://mrsbysiraj0503.streamlit.app/
 
 
 💡 What this project does
